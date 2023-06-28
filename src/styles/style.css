@@ -1,0 +1,43 @@
+.light{
+    background: lightblue;
+    padding: 20px;
+}
+
+.dark{
+    background: #000;
+    padding: 20px;
+    color:#fff;
+}
+body{
+    background: purple;
+}
+
+.todoForm{
+    background: #000;
+    padding: 20px;
+    width: 550px;
+}
+.btn-orange,.btn-orange:hover{
+    background: purple;
+    color:#fff;
+}
+.list{
+    margin-top:15px;
+}
+.card-custom{
+    border:2px solid #ccc;
+    border-radius: 5px;
+}
+.border-radius{
+    border-radius: 10px;
+    padding: 9px;
+}
+
+button{
+    all:unset;
+    color:#fff;
+}
+.bi{
+    color: #fff;
+    cursor: pointer;
+}
